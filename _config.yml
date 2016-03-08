@@ -1,29 +1,41 @@
-name: kinsol
-favicon: null
-layout_spectrum: 0.26321051153354347
-typography_spectrum: 0.6517705353908241
 title: Kinetic Solutions
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1052809150423855
+  brandStrength: 0.7554299284238368
+  lightness: 0.9141985331661999
+  brandColors:
+    - '#CFBEB4'
+    - '#6E5C02'
+    - '#5C050C'
+    - '#B4A31F'
+    - '#303153'
+  rhythmicContrast: 0.8606706047430634
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: kinsol
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7554299284238368
-  lightness: 0.9141985331661999
-  saturation: 0.10528091504238546
-  rhythmicContrast: 0.8606706047430634
-purpose: []
+typography_spectrum: 0.6517705353908241
+layout_spectrum: 1
